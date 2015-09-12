@@ -1,0 +1,13 @@
+implicitWait=5
+url=http://streamtv.net.ua/base/
+login=auto
+password=test
+pathPicUpload=\\samples\\img\\pic.jpg
+pathPicDownloadExpected=\\samples\\img\\pic_downloaded_expected.png
+pathPicDownloadActual=\\samples\\img\\pic_downloaded_actual.png
+pathDocUpload=\\samples\\doc\\doc.odt
+pathDocDownloadActual=\\samples\\doc\\doc_downloaded_actual.odt
+uriCreate=http://streamtv.net.ua/base/php/wrestler/create.php
+uriUpdate=http://streamtv.net.ua/base/php/wrestler/update.php?id=
+uriRead=http://streamtv.net.ua/base/php/wrestler/read.php?id=
+uriDelete=http://streamtv.net.ua/base/php/wrestler/delete.php?id=
